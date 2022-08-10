@@ -1,0 +1,10 @@
+.h1-name-display {
+  display: block;
+}
+.name-oktay {
+  color: brown;
+}
+.margin-external {
+  margin-bottom: 30px !important;
+  padding-bottom: 0 !important;
+}
